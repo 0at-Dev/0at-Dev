@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A Javascript developer with +2 years of experience</h3>
 
-- 🌱 I’m currently learning **TS, PostgreSQL**
+- 🌱 I’m currently learning **MongoDB, PostgreSQL and Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0at-Dev](https://github.com/0at-Dev)
 
